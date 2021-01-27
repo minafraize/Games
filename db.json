@@ -1,0 +1,28 @@
+{
+    "games": [
+        {
+            "id": "1",
+            "name": "assassin’s creed",
+            "img": "Assassin’s Creed.jpg",
+            "des": "another year, another mediocre game from Ubisoft. Looks like the French studio is only aiming for easy profit."
+        },
+        {
+            "id": "2",
+            "name": "Dishonored.jpg",
+            "img": "Dishonored.jpg",
+            "des": "after all console gamers praised Dishonored and named it “Game Of The Year” Arkane Studios announced PC release."
+        },
+        {
+            "id": "3",
+            "img": "Need for speed.jpg",
+            "name": "need for speed",
+            "des": "Reignite the pursuit in Need for Speed™ Hot Pursuit Remastered. Out now on PS4, Xbox, PC and Nintendo Switch."
+        },
+        {
+            "id": "4",
+            "img": "Call of Duty WWII.jpg",
+            "name": "call of duty wwii",
+            "des": "After freeing former chemical weapons expert Stitch from the Gulag, Perseus has resurrected the long-dormant weapons facility and restarted the Nova 6 Nerve Gas program."
+        }
+    ]
+}
